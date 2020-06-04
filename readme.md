@@ -18,3 +18,4 @@
 | [InFlight Entertainment](https://www.interviewcake.com/question/javascript/inflight-entertainment?course=fc1&section=hashing-and-hash-tables) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/inFlightEntertainment.js) |
 | [Permutation Palindrome](https://www.interviewcake.com/question/javascript/permutation-palindrome?course=fc1&section=hashing-and-hash-tables) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/permutationPalindrome.js) |
 | [Word Cloud Data](https://www.interviewcake.com/question/javascript/word-cloud?course=fc1&section=hashing-and-hash-tables) | N | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/wordCloudData.js) |
+| [Top Scores](https://www.interviewcake.com/question/javascript/top-scores?course=fc1&section=hashing-and-hash-tables) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/topScores.js) |
