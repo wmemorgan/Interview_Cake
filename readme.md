@@ -23,3 +23,4 @@
 | [Highest Product of 3](https://www.interviewcake.com/question/javascript/highest-product-of-3?course=fc1&section=greedy) | N | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/highestProductOf3.js) |
 | [Product of All Other Numbers](https://www.interviewcake.com/question/javascript/product-of-other-numbers?course=fc1&section=greedy) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/productOfAllOtherNums.js) |
 | [In-Place Shuffle](https://www.interviewcake.com/question/javascript/shuffle?course=fc1&section=greedy) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/inPlaceShuffle.js) |
+| [Find Rotation Point](https://www.interviewcake.com/question/javascript/find-rotation-point?course=fc1&section=sorting-searching-logarithms) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/findRotationPoint.js) |
