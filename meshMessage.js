@@ -113,12 +113,12 @@ function getPath(graph, startNode, endNode) {
         throw new Error('Node not in graph');
     }
 
-    const queue = new Queue();
+    const nodesToVisit = new Queue();
     const visited = new Set();
-    queue.enqueue([startNode]);
+    nodesToVisit.enqueue([startNode]);
 
-    while (queue.size > 0) {
-        const currentPath = queue.dequeue();
+    while (nodesToVisit.size > 0) {
+        const currentPath = nodesToVisit.dequeue();
         const currentNode = currentPath[currentPath.length - 1];
 
         if (currentNode === endNode) return currentPath;
@@ -129,7 +129,7 @@ function getPath(graph, startNode, endNode) {
             for (node of graph[currentNode]) {
                 const pathCopy = [...currentPath];
                 pathCopy.push(node);
-                queue.enqueue(pathCopy);
+                nodesToVisit.enqueue(pathCopy);
             }
         }
     }
