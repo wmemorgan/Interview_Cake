@@ -20,7 +20,7 @@
 
 /**
  * OFFICIAL APPROACH
- * BIG O: TIME: O(n), SPACE: O(n)
+ * BIG O: TIME: O(n), SPACE: O(1)
  */
 
 function fib(n) {
