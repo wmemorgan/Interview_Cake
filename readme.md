@@ -34,3 +34,4 @@
 | [Recursive String Permutations](https://www.interviewcake.com/question/javascript/recursive-string-permutations?course=fc1&section=dynamic-programming-recursion) | N | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/recursiveStringPermutations.js) |
 | [Fibonacci Number](https://www.interviewcake.com/question/javascript/nth-fibonacci?course=fc1&section=dynamic-programming-recursion) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/fibMem.js) |
 | [Making Change](https://www.interviewcake.com/question/javascript/coin?course=fc1&section=dynamic-programming-recursion) | N | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/makingChange.js) |
+| [Largest Stack](https://www.interviewcake.com/question/javascript/largest-stack?course=fc1&section=queues-stacks) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/largestStack.js) |
