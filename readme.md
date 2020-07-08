@@ -36,3 +36,4 @@
 | [Making Change](https://www.interviewcake.com/question/javascript/coin?course=fc1&section=dynamic-programming-recursion) | N | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/makingChange.js) |
 | [Largest Stack](https://www.interviewcake.com/question/javascript/largest-stack?course=fc1&section=queues-stacks) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/largestStack.js) |
 | [Queue with Two Stacks](https://www.interviewcake.com/question/javascript/queue-two-stacks?course=fc1&section=queues-stacks) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/queueWith2Stacks.js) |
+| [Parenthesis Matching](https://www.interviewcake.com/question/javascript/matching-parens?course=fc1&section=queues-stacks) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/parensMatching.js) |
