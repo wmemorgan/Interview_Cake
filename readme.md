@@ -38,3 +38,4 @@
 | [Queue with Two Stacks](https://www.interviewcake.com/question/javascript/queue-two-stacks?course=fc1&section=queues-stacks) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/queueWith2Stacks.js) |
 | [Parenthesis Matching](https://www.interviewcake.com/question/javascript/matching-parens?course=fc1&section=queues-stacks) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/parensMatching.js) |
 | [Bracket Validator](https://www.interviewcake.com/question/javascript/bracket-validator?course=fc1&section=queues-stacks) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/bracketValidator.js) |
+| [Delete Node](https://www.interviewcake.com/question/javascript/delete-node?course=fc1&section=linked-lists) | N | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/deleteNode.js) |
