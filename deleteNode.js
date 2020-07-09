@@ -38,10 +38,10 @@ class LinkedListNode {
  * OFFICIAL APPROACH
  * BIG O: TIME: O(1), SPACE: O(1)
  * Declare nextNode variable and assign nodeToDelete.next
- * If NOT null
- * Modify nodeToDelete
- * Change nodeToDelete.value to nextNode.value
- * Change nodeToDelete.next to nextNode.next
+ * If nextNode NOT null
+ * 	Modify nodeToDelete
+ * 	Change nodeToDelete.value to nextNode.value
+ * 	Change nodeToDelete.next to nextNode.next
  * Else
  * throw error "Can't delete the last node with this technique!"
  */
