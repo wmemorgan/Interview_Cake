@@ -39,3 +39,4 @@
 | [Parenthesis Matching](https://www.interviewcake.com/question/javascript/matching-parens?course=fc1&section=queues-stacks) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/parensMatching.js) |
 | [Bracket Validator](https://www.interviewcake.com/question/javascript/bracket-validator?course=fc1&section=queues-stacks) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/bracketValidator.js) |
 | [Delete Node](https://www.interviewcake.com/question/javascript/delete-node?course=fc1&section=linked-lists) | N | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/deleteNode.js) |
+| [Does this Linked List have a Cycle?](https://www.interviewcake.com/question/javascript/linked-list-cycles?course=fc1&section=linked-lists) | Y | [Solution.javascript](https://github.com/wmemorgan/Interview_Cake/blob/master/isCycleLL.js) |
